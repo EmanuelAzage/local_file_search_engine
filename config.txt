@@ -1,0 +1,8 @@
+# My configuration file for crawler
+
+# this is the seed file for crawler
+SEED_FILE = data100/seed.txt # enter the seed file of the data set you want to run, the data set must be in same folder
+
+# this is the index file for search engine
+OUTPUT_FILE = crawler_output.txt
+

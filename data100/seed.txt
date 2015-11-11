@@ -1,0 +1,7 @@
+data100/p0.txt
+data100/p5.txt
+data100/p1.txt
+data100/p2.txt
+data100/p3.txt
+data100/p4.txt
+data100/p6.txt
