@@ -1,4 +1,0 @@
-[data3](canddata/d3.txt) 
-hello stuff
-
-Ind1

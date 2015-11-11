@@ -1,5 +1,0 @@
-no incoming links but 1 outgoing to d6
-
-[data6](canddata/d6.txt)
-
-Ind5
