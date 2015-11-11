@@ -1,6 +1,0 @@
-canddata/d1.txt
-canddata/d2.txt
-canddata/d3.txt
-canddata/d4.txt
-canddata/d5.txt
-canddata/d6.txt

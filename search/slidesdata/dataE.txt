@@ -1,3 +1,0 @@
-[link](slidesdata/dataC.txt)
-[link](slidesdata/dataD.txt)
-inE

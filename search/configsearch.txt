@@ -1,9 +1,0 @@
-
-#this is the full list of webpages that exist in the file
-INDEX_FILE = ../crawler_output.txt # if using crawler, this should be ../crawler_output.txt
-
-# this is epsilon for page rank
-RESTART_PROBABILITY = 0.15
-
-# this is "t" for the page rank
-STEP_NUMBER = 25
