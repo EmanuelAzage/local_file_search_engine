@@ -1,5 +1,0 @@
-slidesdata/dataA.txt
-slidesdata/dataB.txt
-slidesdata/dataC.txt
-slidesdata/dataD.txt
-slidesdata/dataE.txt

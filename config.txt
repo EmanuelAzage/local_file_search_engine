@@ -1,8 +1,0 @@
-# My configuration file
-
-# this is the seed file for crawler
-SEED_FILE = data/seed.txt # enter the seed file of the data set you want to run
-
-# this is the index file for search engine
-OUTPUT_FILE = crawler_output.txt
-
