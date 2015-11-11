@@ -1,6 +1,0 @@
-crawldata/data1.txt
-crawldata/data2.txt
-crawldata/data5.txt
-crawldata/data6.txt
-crawldata/data3.txt
-crawldata/data4.txt

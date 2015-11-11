@@ -1,2 +1,0 @@
-[link](crawldata/data6.txt)
-[notalink](crawldata/data1232.txt)
